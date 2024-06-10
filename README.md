@@ -17,4 +17,4 @@ Report any issues you encounter on the Issues tab.
 Leave feedback and suggestions for improvement!
 
 Tags: car rental website, frontend, backend, responsive, booking system, PHP, JavaScript, React, web development
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttuautos)](https://github.com/anuraghazra/github-readme-stats)
